@@ -2,7 +2,7 @@
 ## Benson Project
 
 ### Introduction
-The first day of Metis off to a good start and by the end of the day Benson was introduced. As the heading suggests the project name was Benson! Why the name Benson? I will get back to you on this. We were all divided in groups of 4 and as a
+The first day at Metis off to a good start and by the end of the day Benson was introduced. As the heading suggests the project name was Benson! Why the name Benson? I will get back to you on this. We were all divided in groups of 4 and as a
 team by the end of week do a presentation on the data analysis findings. The problem statement was with the help of MTA data, recommend subway stations for the street team to solicit for WTWY Gala and create awareness in New York. The street team have to reach out people who can attend gala and donate for the cause.
 
 ### Approach
