@@ -21,6 +21,8 @@ As we can see the top 10 stations based on the income bracket, we would like to 
 1. 34th Penn Station
 2. Grand Central - 42 Street        
 3. 42 St - Port Authority
+
+
 ![top3](https://github.com/priyankapanda78/priyankapanda78.github.io/blob/draft/_posts/p3.png)
 
 
