@@ -10,11 +10,11 @@ The MTA turnstile data is available weekly for the subway stations. To analyze t
 
 ### Analysis
 Exploratory data analysis is performed on the census and MTA turnstile data. The census data is filtered by 150K-200K household income with their respective zip code and the total percentage of people with this income range for a zip code was calculated. The % of people with this income range we can see in this table below.
-![p1](https://github.com/priyankapanda78/priyankapanda78.github.io/blob/master/_posts/P1.png)
+![p1]({{ site.url }}/public/benson/P1.png)
 
 The zip code for MTA stations were derived with the help of Googlemap Geocoder API and the census data is merged by the zip code. The % of people with income is then multiplied with the daily morning entries data for each subway station to get the total number of people. And these are the top performing 10 stations with the highest footfall in the specified range.
 
-![topStations](https://github.com/priyankapanda78/priyankapanda78.github.io/blob/master/_posts/topStations.png)
+![topStations]({{ site.url }}/public/benson/topStations.png)
 
 ### Results
 As we can see the top 10 stations based on the income bracket, we would like to recommend the top 3 stations out of them for the street team to solicit for WTWY Gala i.e.
@@ -23,7 +23,7 @@ As we can see the top 10 stations based on the income bracket, we would like to 
 3. 42 St - Port Authority
 
 
-![p3](https://github.com/priyankapanda78/priyankapanda78.github.io/blob/master/_posts/p3.png)
+![p3]({{ site.url }}/public/benson/p3.png)
 
 -----
 
