@@ -1,5 +1,5 @@
 # Permalinks
-#permalink:           pretty
+permalink:           pretty
 
 # Setup
 title:               A github blog
@@ -26,9 +26,9 @@ github:
   repo:              https://github.com/priyankapanda78
 
 # Gems
-#gems:
- # - jekyll-paginate
-  #- jekyll-gist
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Page List
 pages_list:       
