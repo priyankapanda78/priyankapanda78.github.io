@@ -10,6 +10,7 @@ The MTA turnstile data is available weekly for the subway stations. To analyze t
 
 ### Analysis
 Exploratory data analysis is performed on the census and MTA turnstile data. The census data is filtered by 150K-200K household income with their respective zip code and the total percentage of people with this income range for a zip code was calculated. The % of people with this income range we can see in this table below.
+
 ![p1]({{ site.url }}/public/benson/P1.png)
 
 The zip code for MTA stations were derived with the help of Googlemap Geocoder API and the census data is merged by the zip code. The % of people with income is then multiplied with the daily morning entries data for each subway station to get the total number of people. And these are the top performing 10 stations with the highest footfall in the specified range.
